@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364146351793",
+    "project_id": "flutternotification-d50e4",
+    "storage_bucket": "flutternotification-d50e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364146351793:android:460461c0bcc61d5a7ecc90",
+        "android_client_info": {
+          "package_name": "com.example.hellobutton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDna_j2shE9AQE1VxV2DBiDPJaqpyb69Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
